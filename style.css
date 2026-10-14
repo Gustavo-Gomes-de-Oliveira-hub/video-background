@@ -124,7 +124,7 @@ img{
     width: 300px;
 }
 .volumes{
-    height: 300vh;
+    height: 100vh;
     background-color:rgb(134, 99, 9);
     padding: 80px;
 }
@@ -134,6 +134,7 @@ img{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     
 }
 .card{
